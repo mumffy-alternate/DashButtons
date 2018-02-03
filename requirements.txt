@@ -1,0 +1,2 @@
+scapy==2.4.0rc3
+winpcapy==1.0.2
